@@ -9,7 +9,7 @@
 
 ## Install
 
-- git clone https://github.com/eshopsuz/shop_admin_landing.git 
+ 
 - composer install
 - php artisan migrate
 - php artisan passport:install
